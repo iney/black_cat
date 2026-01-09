@@ -1,2 +1,4 @@
 print( "Hello World!" );
-second change;
+a = 42;
+b = 0;
+print ( a / b);
